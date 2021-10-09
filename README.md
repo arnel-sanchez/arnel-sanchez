@@ -21,5 +21,5 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnel-sanchez&theme=dark&hide_border=true&count_private=true" alt="arnel-sanchez" />
 </p>
 <p align="center">
-<img align="center" src="https://github.com/arnel-sanchez/hiperion/blob/master/dino.gif" alt="arnel-sanchez" />
+<img align="center" src="https://github.com/arnel-sanchez/arnel-sanchez/blob/master/dino.gif" alt="arnel-sanchez" />
 </p>
