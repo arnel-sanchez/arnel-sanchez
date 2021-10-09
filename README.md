@@ -4,8 +4,9 @@
 - 📫 **arnelsanchezrodriguez@gmail.com**
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=arnel-sanchez&label=Views&color=blue&style=flat-square" alt="arnel-sanchez" /> 
+<img align="center" src="https://github.com/arnel-sanchez/arnel-sanchez/blob/master/dino.gif" alt="arnel-sanchez" />
 </p>
+
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnel-sanchez&theme=gruvbox&no-bg=true&no-frame=true&count_private=true" alt="arnel-sanchez" /></a> 
 </p>
@@ -19,7 +20,4 @@
 </p>
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnel-sanchez&theme=dark&hide_border=true&count_private=true" alt="arnel-sanchez" />
-</p>
-<p align="center">
-<img align="center" src="https://github.com/arnel-sanchez/arnel-sanchez/blob/master/dino.gif" alt="arnel-sanchez" />
 </p>
