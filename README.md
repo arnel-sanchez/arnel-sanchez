@@ -1,6 +1,5 @@
 <h1 align="center">Hi everyone 👋, I'm Arnel</h1>
 
-- 🔭 I’m currently working at CXMAD
 - 📫 **arnelsanchezrodriguez@gmail.com**
 
 <p align="center">
